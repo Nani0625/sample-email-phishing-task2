@@ -1,5 +1,4 @@
 # sample-email-phishing-task2
-# Phishing Email Analysis - README
 
 Objective
 
